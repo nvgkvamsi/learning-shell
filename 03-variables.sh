@@ -1,5 +1,5 @@
 #! /bin/sh
 
-a = "va"
+$a = "va"
 
 echo $a

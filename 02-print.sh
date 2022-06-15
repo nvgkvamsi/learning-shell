@@ -1,14 +1,10 @@
-#! /bin/bash
-
-# to print some message on screen then
-
-#commmand : echo
-
-# syntax echo INPUT
+#!/bin/bash
 
 echo Hello World
 
 
-# print multiple line
+echo -e "hello,\nhow are you"
 
-echo Hello, "\n"How are you doing, "\n"Gud Morning
+echo -e "heloo\tvamsi"
+
+echo -e "\e[31mHelo in RED COllor\e[0m"

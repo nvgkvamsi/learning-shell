@@ -9,6 +9,6 @@
 echo Hello World
 
 
-# print multiple lines
+# print multiple line
 
 echo Hello, "\n"How are you doing, "\n"Gud Morning

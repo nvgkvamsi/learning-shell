@@ -1,7 +1,22 @@
 #!/bin/bash
-name="Mokhar"
-age=3
-total=16
-echo $name  #print Mokhtar
-echo $age   #prints 35
-echo $total #prints 16
+
+#Declare variable
+
+a=100
+
+#print data in variable
+
+echo $a
+
+#Arithmetic Substitution
+
+b=$((3+5))
+
+
+echo $b
+
+#command substitution
+
+DATE=$(date+%F)
+
+echo "Today's date is:"$DATE

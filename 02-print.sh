@@ -18,7 +18,7 @@ echo -e "hello\tvamsi"
 # syntax : echo -e "\e[COLmMessage\e[0m"
 # -e -> enable esc seq
 # \e -> enable col
-# [COLm -> Give color input
+# [COLm -> Give colo input
 #\e [0m -> Disable the color
 
 # The colors we have are:

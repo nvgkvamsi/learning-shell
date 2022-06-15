@@ -1,5 +1,5 @@
 #!/bin/bash
-name="Mokhtar"
+name="Mokhar"
 age=35
 total=16
 echo $name  #prints Mokhtar

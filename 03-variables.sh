@@ -1,6 +1,6 @@
 #!/bin/bash
 name="Mokhar"
-age=35
+age=3
 total=16
 echo $name  #print Mokhtar
 echo $age   #prints 35

@@ -4,7 +4,7 @@
 
 a=100
 
-#print data in variable
+#print data in variabl
 
 echo $a
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # To print some message on screen then
-# Command : echo echo
+# Command : echo echo echo
 # syntax: echo INPUT
 
 

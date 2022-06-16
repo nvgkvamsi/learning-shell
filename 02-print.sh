@@ -31,4 +31,4 @@ echo -e "hello\tvamsi"
 #CYAN       36            \e[36m
 
 echo -e "\e[31mHello in RED Color\e[0m"
-echo "Hello in Normal Color"
+echo "Hello in Normal Colour"

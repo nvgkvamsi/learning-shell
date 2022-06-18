@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Declare variable
+#Declare variables
 
 a=100
 
